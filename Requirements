@@ -1,0 +1,9 @@
+Bu projeyi çalıştırabilmek için aşağıdaki Python kütüphanelerinin yüklü olması gerekmektedir:
+
+NumPy: Sayısal işlemler ve veri manipülasyonu için.
+Pandas: Veri analizi ve işleme için.
+Scikit-learn: Makine öğrenmesi modelleri, özellikle Lojistik Regresyon için.
+Matplotlib: Sonuçları görselleştirmek için.
+
+Aşağıdaki komutları kullanarak gerekli kütüphaneleri yükleyebilirsiniz:
+pip install numpy pandas scikit-learn matplotlib
